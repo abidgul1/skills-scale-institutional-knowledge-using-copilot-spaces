@@ -8,7 +8,7 @@ At OctoAcme, we follow a customer-first, iterative approach to project managemen
 
 Our project management framework is built on five core principles: prioritizing customer value and usability, delivering small testable increments, establishing clear ownership with named Project Managers and Product Leads, making data-informed decisions by measuring impact, and fostering psychological safety to encourage feedback and learning. These principles guide every project and inform the processes documented here.
 
-The project lifecycle at OctoAcme consists of five key phases: Initiation (defining problem statements, stakeholders, and high-level timelines), Planning (scoping, resourcing, and identifying dependencies), Execution (building, testing, and iterating), Release (deploying and verifying), and Retrospective (capturing learnings and defining next steps). Throughout this lifecycle, we maintain regular communication cadences including weekly PM-PdM syncs, twice-weekly team standups, and monthly stakeholder updates.
+The project lifecycle at OctoAcme consists of five key phases: Initiation (defining problem statements, stakeholders, and high-level timelines), Planning (scoping, resourcing, and identifying dependencies), Execution (building, testing, and iterating), Release (deploying and verifying), and Retrospective (capturing learnings and defining next steps). Throughout this lifecycle, we maintain regular communication cadences including weekly PM + PdM syncs, twice-weekly team standups, and monthly stakeholder updates.
 
 Quality assurance is integrated throughout our processes, from defining acceptance criteria during planning to running automated tests during execution, conducting manual QA before release, and performing post-deployment smoke tests. We manage risks proactively through risk registers, track dependencies across teams, and maintain clear escalation paths. Our communication strategies ensure transparency across all stakeholder groups, with consistent status reporting, single sources of truth for project information, and structured templates for weekly updates and incident communications.
 
@@ -17,7 +17,7 @@ Quality assurance is integrated throughout our processes, from defining acceptan
 ### Core Framework
 - **[Project Management Overview](octoacme-project-management-overview.md)** - Introduction to OctoAcme's project management approach, core principles, roles, artifacts, and high-level lifecycle
 
-- **[Roles and Personas](octoacme-roles-and-personas.md)** - Detailed definitions of key roles including Developers, Product Managers, and Project Managers with their responsibilities, goals, and communication patterns
+- **[OctoAcme Personas](octoacme-roles-and-personas.md)** - Detailed definitions of key roles including Developers, Product Managers, and Project Managers with their responsibilities, goals, and communication patterns
 
 ### Project Lifecycle
 
@@ -40,7 +40,7 @@ Quality assurance is integrated throughout our processes, from defining acceptan
 If you're new to project management at OctoAcme, we recommend reading the documents in this order:
 
 1. Start with the **Project Management Overview** to understand our core principles and approach
-2. Review **Roles and Personas** to understand team structure and responsibilities
+2. Review **OctoAcme Personas** to understand team structure and responsibilities
 3. Follow the lifecycle documents in sequence (**Initiation** → **Planning** → **Execution** → **Release** → **Retrospective**) to learn the end-to-end process
 4. Reference **Risk Management & Communication** as needed throughout any project phase
 

@@ -76,7 +76,7 @@ Quality is embedded throughout our development process:
 1. **Read the [Overview](octoacme-project-management-overview.md)** to understand our principles and approach
 2. **Review [Roles and Personas](octoacme-roles-and-personas.md)** to understand your role and how you fit into the team
 3. **Familiarize yourself with the project lifecycle** by reading through the numbered guides above
-4. **Check out ongoing projects** in our GitHub Projects board to see these processes in action
+4. **Connect with your Project Manager** to learn about current projects and see these processes in action
 
 ## 🤝 How to Use This Documentation
 
